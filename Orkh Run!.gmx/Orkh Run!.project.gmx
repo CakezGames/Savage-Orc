@@ -9,21 +9,27 @@
     <sound>sound\snd_button</sound>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\spr_whipbuttoninfo</sprite>
-    <sprite>sprites\spr_axebuttonmall</sprite>
-    <sprite>sprites\spr_axebutton1</sprite>
-    <sprite>sprites\spr_axebutton2</sprite>
-    <sprite>sprites\spr_axebutton3</sprite>
     <sprite>sprites\spr_back</sprite>
-    <sprite>sprites\spr_axebutton4</sprite>
-    <sprite>sprites\spr_axebutton5</sprite>
-    <sprite>sprites\spr_axebutton6</sprite>
     <sprite>sprites\spr_whiptext</sprite>
-    <sprite>sprites\spr_axebutton7</sprite>
     <sprite>sprites\spr_play</sprite>
     <sprite>sprites\spr_shopbutton</sprite>
     <sprite>sprites\sprite38</sprite>
     <sprite>sprites\spr_ground</sprite>
+    <sprite>sprites\spr_board</sprite>
+    <sprite>sprites\sprite16</sprite>
+    <sprites name="Shop">
+      <sprite>sprites\spr_axebuttonmall</sprite>
+      <sprite>sprites\spr_whipbuttoninfo</sprite>
+      <sprite>sprites\spr_axebutton1</sprite>
+      <sprite>sprites\spr_axebutton2</sprite>
+      <sprite>sprites\spr_axebutton3</sprite>
+      <sprite>sprites\spr_axebutton4</sprite>
+      <sprite>sprites\spr_axebutton5</sprite>
+      <sprite>sprites\spr_axebutton6</sprite>
+      <sprite>sprites\spr_axebutton7</sprite>
+    </sprites>
+    <sprite>sprites\sprite17</sprite>
+    <sprite>sprites\sprite18</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -43,6 +49,7 @@
     <object>objects\obj_play</object>
     <object>objects\object10</object>
     <object>objects\obj_ground</object>
+    <object>objects\obj_board</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_lobby</room>

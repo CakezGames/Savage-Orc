@@ -31,9 +31,7 @@
       <sprite>sprites\spr_axebutton7</sprite>
     </sprites>
     <sprite>sprites\sprite17</sprite>
-<<<<<<< HEAD
     <sprite>sprites\spr_aim</sprite>
-=======
     <sprite>sprites\sprite18</sprite>
     <sprites name="Orc">
       <sprite>sprites\Walk</sprite>
@@ -44,7 +42,7 @@
     <sprites name="Weapons">
       <sprite>sprites\spr_arrow</sprite>
     </sprites>
->>>>>>> origin/master
+origin/master
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>

@@ -30,6 +30,15 @@
     </sprites>
     <sprite>sprites\sprite17</sprite>
     <sprite>sprites\sprite18</sprite>
+    <sprites name="Orc">
+      <sprite>sprites\Walk</sprite>
+    </sprites>
+    <sprites name="Enemies">
+      <sprite>sprites\spr_bat</sprite>
+    </sprites>
+    <sprites name="Weapons">
+      <sprite>sprites\spr_arrow</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -50,6 +59,19 @@
     <object>objects\object10</object>
     <object>objects\obj_ground</object>
     <object>objects\obj_board</object>
+    <objects name="Orc">
+      <object>objects\obj_orc</object>
+    </objects>
+    <objects name="Enemies">
+      <object>objects\obj_bat</object>
+      <object>objects\obj_parentenemy</object>
+    </objects>
+    <objects name="Controllers">
+      <object>objects\obj_spawner</object>
+    </objects>
+    <objects name="Weapons">
+      <object>objects\obj_arrow</object>
+    </objects>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_lobby</room>

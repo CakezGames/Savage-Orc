@@ -14,8 +14,10 @@
     <sprite>sprites\spr_play</sprite>
     <sprite>sprites\spr_shopbutton</sprite>
     <sprite>sprites\sprite38</sprite>
+    <sprite>sprites\spr_chutulutroll</sprite>
     <sprite>sprites\spr_ground</sprite>
     <sprite>sprites\spr_board</sprite>
+    <sprite>sprites\spr_boardscraps</sprite>
     <sprite>sprites\sprite16</sprite>
     <sprites name="Shop">
       <sprite>sprites\spr_axebuttonmall</sprite>
@@ -29,7 +31,7 @@
       <sprite>sprites\spr_axebutton7</sprite>
     </sprites>
     <sprite>sprites\sprite17</sprite>
-    <sprite>sprites\sprite18</sprite>
+    <sprite>sprites\spr_aim</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>

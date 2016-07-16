@@ -16,6 +16,8 @@
     <sprite>sprites\sprite38</sprite>
     <sprite>sprites\spr_chutulutroll</sprite>
     <sprite>sprites\spr_ground</sprite>
+    <sprite>sprites\spr_brasa</sprite>
+    <sprite>sprites\sprite30</sprite>
     <sprite>sprites\spr_board</sprite>
     <sprite>sprites\spr_boardscraps</sprite>
     <sprite>sprites\sprite16</sprite>
@@ -40,9 +42,12 @@
       <sprite>sprites\spr_bat</sprite>
     </sprites>
     <sprites name="Weapons">
+      <sprite>sprites\spr_arrowfire</sprite>
       <sprite>sprites\spr_arrow</sprite>
     </sprites>
-origin/master
+    <sprites name="HUD">
+      <sprite>sprites\spr_arrowHUD</sprite>
+    </sprites>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
@@ -76,6 +81,10 @@ origin/master
     <objects name="Weapons">
       <object>objects\obj_arrow</object>
     </objects>
+    <object>objects\obj_aim</object>
+    <object>objects\obj_arrowbar</object>
+    <object>objects\obj_arrowHUD</object>
+    <object>objects\obj_brasa</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rm_lobby</room>

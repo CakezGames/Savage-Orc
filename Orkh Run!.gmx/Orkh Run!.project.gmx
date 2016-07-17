@@ -36,6 +36,8 @@
     <sprite>sprites\spr_aim</sprite>
     <sprite>sprites\sprite18</sprite>
     <sprites name="Orc">
+      <sprite>sprites\spr_arm</sprite>
+      <sprite>sprites\spr_arrowarm</sprite>
       <sprite>sprites\Walk</sprite>
     </sprites>
     <sprites name="Enemies">
@@ -80,6 +82,8 @@
     </objects>
     <objects name="Weapons">
       <object>objects\obj_arrow</object>
+      <object>objects\obj_arrowarm</object>
+      <object>objects\obj_arm</object>
     </objects>
     <object>objects\obj_aim</object>
     <object>objects\obj_arrowbar</object>

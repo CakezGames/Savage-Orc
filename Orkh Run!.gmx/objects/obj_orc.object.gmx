@@ -57,11 +57,8 @@ if mouse_x &gt;150
 if arrows &gt;0
 {
 
+instance_create(30,30,obj_arrow);
 
-
-
-with obj_arrow
-{
 
 with obj_arrowbar
 {
@@ -71,7 +68,6 @@ hp=0;
 
 
 
-fired=1;
 }
 arrows-=1;
 }
@@ -104,7 +100,7 @@ if mouse_x &gt;150
 
 if arrows=1
 {
-instance_create(x,y,obj_arrow);
+instance_create(x,y,obj_arrowarm);
 instance_create(mouse_x,mouse_y,obj_aim);
 }
 

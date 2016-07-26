@@ -36,8 +36,8 @@
     <sprite>sprites\spr_aim</sprite>
     <sprite>sprites\sprite18</sprite>
     <sprites name="Orc">
-      <sprite>sprites\spr_arm</sprite>
       <sprite>sprites\spr_arrowarm</sprite>
+      <sprite>sprites\spr_arm</sprite>
       <sprite>sprites\Walk</sprite>
     </sprites>
     <sprites name="Enemies">

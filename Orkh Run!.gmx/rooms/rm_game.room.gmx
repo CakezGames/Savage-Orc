@@ -56,6 +56,7 @@
     <instance objName="obj_parentenemy" x="448" y="96" name="inst_83F278EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_arrowbar" x="32" y="96" name="inst_2F323F27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_arrowHUD" x="160" y="40" name="inst_12A8577F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_arm" x="91" y="307" name="inst_585EEF02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
